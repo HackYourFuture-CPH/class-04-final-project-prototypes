@@ -8,6 +8,9 @@
 +run the code from terminal by $npm jsonserver
 +Use Ajax to fetch data from the server
 
+Challenges:
+The data use is a bit messy and the format it was provided was a bit confusing
+
 some ref:
 1. https://github.com/typicode/json-server
 2.https://www.youtube.com/watch?v=1zkgdLZEdwM
