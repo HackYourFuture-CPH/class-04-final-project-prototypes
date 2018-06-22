@@ -1,145 +1,410 @@
-{"items":[
-  {
-    "id": "SH01",
-    "type": "bibtex",
-    "data":{
-      "text": "@misc{HeBIS-222701897,\n title = {Ahia me.[...] penny},\n series = {Ambassador Yellow Label},\n editor = {Amissah, I.K. [Dir.]},\n address = {[S.l.]},\n publisher = {Ambassador},\n year = {[ca. 1955]},\n pages = {1 Schallpl.},\n note = {Matrix-Nr.: BAK 41/BAK 42Titel A-Seite unvollständig (beschädigtes Label)Sprache: Highlife in FantiEnth. außerdem: Woma me mdzi ma agoro},\n location = {Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01];\n},\n}",
-      "type": "misc",
-      "id": "hebis-222701897",
-      "fields":{
-        "title": "Ahia me.[...] penny",
-        "series": "Ambassador Yellow Label",
-        "editor": "Amissah, I.K. [Dir.]",
-        "address": "[S.l.]",
-        "publisher": "Ambassador",
-        "year": "[ca. 1955]",
-        "pages": "1 Schallpl.",
-        "note": "Matrix-Nr.: BAK 41/BAK 42Titel A-Seite unvollständig (beschädigtes Label)Sprache: Highlife in FantiEnth. außerdem: Woma me mdzi ma agoro",
-        "location": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01];"
+{
+  "items": [
+    {
+      "id": "SH01",
+      "type": "bibtex",
+      "data": {
+        "text": "@misc{HeBIS-222701897,\n title = {Ahia me.[...] penny},\n series = {Ambassador Yellow Label},\n editor = {Amissah, I.K. [Dir.]},\n address = {[S.l.]},\n publisher = {Ambassador},\n year = {[ca. 1955]},\n pages = {1 Schallpl.},\n note = {Matrix-Nr.: BAK 41/BAK 42Titel A-Seite unvollständig (beschädigtes Label)Sprache: Highlife in FantiEnth. außerdem: Woma me mdzi ma agoro},\n location = {Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01];\n},\n}",
+        "type": "misc",
+        "id": "hebis-222701897",
+        "fields": {
+          "title": "Ahia me.[...] penny",
+          "series": "Ambassador Yellow Label",
+          "editor": "Amissah, I.K. [Dir.]",
+          "address": "[S.l.]",
+          "publisher": "Ambassador",
+          "year": "[ca. 1955]",
+          "pages": "1 Schallpl.",
+          "note": "Matrix-Nr.: BAK 41/BAK 42Titel A-Seite unvollständig (beschädigtes Label)Sprache: Highlife in FantiEnth. außerdem: Woma me mdzi ma agoro",
+          "location": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01];"
+        }
+      }
+    },
+    {
+      "id": "SH01",
+      "type": "diag",
+      "data": {
+        "1100": [
+          "1955$n[ca. 1955]"
+        ],
+        "1130": [
+          "!085497215!Normalrillen-Schallplatte"
+        ],
+        "1140": [
+          "m"
+        ],
+        "1500": [
+          "/1fat"
+        ],
+        "2076": [
+          "(OCoLC)643228541"
+        ],
+        "2240": [
+          "HEB:222701897"
+        ],
+        "2301": [
+          "AKB 1521"
+        ],
+        "3010": [
+          "!222701412!Amissah, I.K.$BDir."
+        ],
+        "3100": [
+          "!124874274!Kakaiku's Band"
+        ],
+        "3260": [
+          "Woma me mdzi ma agoro"
+        ],
+        "4000": [
+          "Ahia me.[...] penny [[Tonträger]] / Kakaiku's Dance Band"
+        ],
+        "4030": [
+          "{[S.l.] : Ambassador"
+        ],
+        "4060": [
+          "1 Schallpl."
+        ],
+        "4061": [
+          "78 UpM, [mono]"
+        ],
+        "4062": [
+          "25 cm"
+        ],
+        "4190": [
+          "Ambassador Yellow Label"
+        ],
+        "4201": [
+          "Matrix-Nr.: BAK 41/BAK 42",
+          "Titel A-Seite unvollständig (beschädigtes Label)"
+        ],
+        "4221": [
+          "Sprache: Highlife in Fanti"
+        ],
+        "4222": [
+          "Enth. außerdem: Woma me mdzi ma agoro"
+        ],
+        "4800": [
+          "!102600155!Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien"
+        ],
+        "4801": [
+          "Titel auf A-Seite unvollständig (beschädigtes Label)"
+        ],
+        "4900": [
+          "22-04-10"
+        ],
+        "4901": [
+          "23-04-10 10:27:47.000"
+        ],
+        "6535": [
+          "12.3 Musik"
+        ],
+        "6536": [
+          "12.3 Schellack"
+        ],
+        "6537": [
+          "12.3 Ghana"
+        ],
+        "6538": [
+          "12.3 Fante, Fanti"
+        ],
+        "6539": [
+          "12.3 Highlife"
+        ],
+        "6540": [
+          "12.3 Danceband-Highlife"
+        ],
+        "7001": [
+          "22-04-10 : z"
+        ],
+        "7100": [
+          "SH 01 !066! @ g"
+        ],
+        "7800": [
+          "592003035"
+        ],
+        "7900": [
+          "22-04-10"
+        ],
+        "7901": [
+          "24-04-18 13:48:57.000"
+        ],
+        "8100": [
+          "GS 001"
+        ],
+        "8201": [
+          "BB EA / AMA - African Music Archives"
+        ],
+        "0000": [
+          "25"
+        ],
+        "0200": [
+          "0077:22-04-10"
+        ],
+        "0210": [
+          "0077:24-04-18 13:48:33.000"
+        ],
+        "0230": [
+          "0077:22-04-10"
+        ],
+        "000A": [
+          "0"
+        ],
+        "0500": [
+          "Gau"
+        ],
+        "0100": [
+          "222701897"
+        ]
+      }
+    },
+    {
+      "id": "SH01",
+      "type": "endnote",
+      "data": [
+        {
+          "key": "%0",
+          "value": "- Generic"
+        },
+        {
+          "key": "%B",
+          "value": "Ambassador Yellow Label"
+        },
+        {
+          "key": "%C",
+          "value": "{[S.l.]"
+        },
+        {
+          "key": "%D",
+          "value": "[ca. 1955]"
+        },
+        {
+          "key": "%E",
+          "value": "Amissah, I.K."
+        },
+        {
+          "key": "%G",
+          "value": "fat"
+        },
+        {
+          "key": "%I",
+          "value": "Ambassador"
+        },
+        {
+          "key": "%M",
+          "value": "222701897"
+        },
+        {
+          "key": "%B",
+          "value": "Woma me mdzi ma agoro"
+        },
+        {
+          "key": "%P",
+          "value": "1 Schallpl."
+        },
+        {
+          "key": "%T",
+          "value": "Ahia me.[...] penny"
+        },
+        {
+          "key": "%Z",
+          "value": "Matrix-Nr.: BAK 41/BAK 42"
+        },
+        {
+          "key": "%Z",
+          "value": "Titel A-Seite unvollständig (beschädigtes Label)"
+        },
+        {
+          "key": "%Z",
+          "value": "Sprache: Highlife in Fanti"
+        },
+        {
+          "key": "%Z",
+          "value": "Enth. außerdem: Woma me mdzi ma agoro"
+        },
+        {
+          "key": "%1",
+          "value": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01]"
+        },
+        {
+          "key": "%?",
+          "value": "Kakaikus Band"
+        },
+        {
+          "key": "%~",
+          "value": "OPC4"
+        }
+      ]
+    },
+    {
+      "id": "SH01",
+      "type": "fields",
+      "data": [
+        {
+          "key": "PPN:",
+          "value": "222701897"
+        },
+        {
+          "key": "Title:",
+          "value": "Ahia me.[...] penny [Tonträger] / Kakaiku's Dance Band"
+        },
+        {
+          "key": "Collaborator:",
+          "value": "Amissah, I.K. [Dir.]"
+        },
+        {
+          "key": "Corporate body:",
+          "value": "Kakaiku's Band"
+        },
+        {
+          "key": "Published:",
+          "value": "[S.l.] : Ambassador, [ca. 1955]"
+        },
+        {
+          "key": "Extent:",
+          "value": "1 Schallpl. : 78 UpM, [mono] ; 25 cm"
+        },
+        {
+          "key": "Series:",
+          "value": "Ambassador Yellow Label"
+        },
+        {
+          "key": "Note:",
+          "value": "Sprache: Highlife in Fanti\nEnth. außerdem: Woma me mdzi ma agoro\nMatrix-Nr.: BAK 41/BAK 42 \nTitel A-Seite unvollständig (beschädigtes Label)"
+        },
+        {
+          "key": "Verlags-Bestellnr.:",
+          "value": "AKB 1521"
+        },
+        {
+          "key": "Note on Carrier:",
+          "value": "Normalrillen-Schallplatte"
+        },
+        {
+          "key": "EN:Lokale Schlagwörter:",
+          "value": "12.3 Musik ; 12.3 Schellack ; 12.3 Ghana ; 12.3 Fante, Fanti ; 12.3 Highlife ; 12.3 Danceband-Highlife"
+        },
+        {
+          "key": "EN:Vorhanden in:",
+          "value": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien"
+        },
+        {
+          "key": "EN:Signatur:",
+          "value": "SH 01"
+        },
+        {
+          "key": "EN:Standort:",
+          "value": "BB EA / AMA - African Music Archives"
+        },
+        {
+          "key": "EN:Bemerkungen:",
+          "value": "Titel auf A-Seite unvollständig (beschädigtes Label)"
+        },
+        {
+          "key": "",
+          "value": "nicht ausleihbar"
+        },
+        {
+          "key": "EN:Status:",
+          "value": "Request or reservation not possible, go to information desk"
+        }
+      ]
+    },
+    {
+      "id": "SH01",
+      "type": "ris",
+      "data": [
+        {
+          "key": "TY",
+          "value": "SOUND"
+        },
+        {
+          "key": "ID",
+          "value": "222701897"
+        },
+        {
+          "key": "T1",
+          "value": "Ahia me.[...] penny"
+        },
+        {
+          "key": "T2",
+          "value": "Woma me mdzi ma agoro"
+        },
+        {
+          "key": "T3",
+          "value": "Ambassador Yellow Label"
+        },
+        {
+          "key": "A1",
+          "value": "Kakaikus Band"
+        },
+        {
+          "key": "A2",
+          "value": "Amissah, I.K."
+        },
+        {
+          "key": "CY",
+          "value": "{[S.l.]"
+        },
+        {
+          "key": "PB",
+          "value": "Ambassador"
+        },
+        {
+          "key": "PY",
+          "value": "1955"
+        },
+        {
+          "key": "N1",
+          "value": "Matrix-Nr.: BAK 41/BAK 42"
+        },
+        {
+          "key": "N1",
+          "value": "Titel A-Seite unvollständig (beschädigtes Label)"
+        },
+        {
+          "key": "N1",
+          "value": "Sprache: Highlife in Fanti"
+        },
+        {
+          "key": "N1",
+          "value": "Enth. außerdem: Woma me mdzi ma agoro"
+        },
+        {
+          "key": "N1",
+          "value": "1 Schallpl."
+        },
+        {
+          "key": "H1",
+          "value": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives"
+        },
+        {
+          "key": "H2",
+          "value": "SH 01"
+        },
+        {
+          "key": "ER",
+          "value": ""
+        }
+      ]
+    },
+    {
+      "id": "SH02",
+      "type": "MATRIX",
+      "data": {
+        "text": "@misc{HeBIS-222701897,\n title = {Ahia me.[...] penny},\n series = {Ambassador Yellow Label},\n editor = {Amissah, I.K. [Dir.]},\n address = {[S.l.]},\n publisher = {Ambassador},\n year = {[ca. 1955]},\n pages = {1 Schallpl.},\n note = {Matrix-Nr.: BAK 41/BAK 42Titel A-Seite unvollständig (beschädigtes Label)Sprache: Highlife in FantiEnth. außerdem: Woma me mdzi ma agoro},\n location = {Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01];\n},\n}",
+        "type": "misc",
+        "id": "hebis-222701897",
+        "fields": {
+          "title": "Ahia me.[...] penny",
+          "series": "Ambassador Yellow Label",
+          "editor": "Amissah, I.K. [Dir.]",
+          "address": "[S.l.]",
+          "publisher": "Ambassador",
+          "year": "[ca. 1955]",
+          "pages": "1 Schallpl.",
+          "note": "Matrix-Nr.: BAK 41/BAK 42Titel A-Seite unvollständig (beschädigtes Label)Sprache: Highlife in FantiEnth. außerdem: Woma me mdzi ma agoro",
+          "location": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01];"
+        }
       }
     }
-  },
-  {
-    "id": "SH01",
-    "type": "diag",
-    "data":{
-      "1100": [ "1955$n[ca. 1955]" ],
-      "1130": [ "!085497215!Normalrillen-Schallplatte" ],
-      "1140": [ "m" ],
-      "1500": [ "/1fat" ],
-      "2076": [ "(OCoLC)643228541" ],
-      "2240": [ "HEB:222701897" ],
-      "2301": [ "AKB 1521" ],
-      "3010": [ "!222701412!Amissah, I.K.$BDir." ],
-      "3100": [ "!124874274!Kakaiku's Band" ],
-      "3260": [ "Woma me mdzi ma agoro" ],
-      "4000": [ "Ahia me.[...] penny [[Tonträger]] / Kakaiku's Dance Band" ],
-      "4030": [ "{[S.l.] : Ambassador" ],
-      "4060": [ "1 Schallpl." ],
-      "4061": [ "78 UpM, [mono]" ],
-      "4062": [ "25 cm" ],
-      "4190": [ "Ambassador Yellow Label" ],
-      "4201": [
-        "Matrix-Nr.: BAK 41/BAK 42",
-        "Titel A-Seite unvollständig (beschädigtes Label)"
-      ],
-      "4221": [ "Sprache: Highlife in Fanti" ],
-      "4222": [ "Enth. außerdem: Woma me mdzi ma agoro" ],
-      "4800": [ "!102600155!Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien" ],
-      "4801": [ "Titel auf A-Seite unvollständig (beschädigtes Label)" ],
-      "4900": [ "22-04-10" ],
-      "4901": [ "23-04-10 10:27:47.000" ],
-      "6535": [ "12.3 Musik" ],
-      "6536": [ "12.3 Schellack" ],
-      "6537": [ "12.3 Ghana" ],
-      "6538": [ "12.3 Fante, Fanti" ],
-      "6539": [ "12.3 Highlife" ],
-      "6540": [ "12.3 Danceband-Highlife" ],
-      "7001": [ "22-04-10 : z" ],
-      "7100": [ "SH 01 !066! @ g" ],
-      "7800": [ "592003035" ],
-      "7900": [ "22-04-10" ],
-      "7901": [ "24-04-18 13:48:57.000" ],
-      "8100": [ "GS 001" ],
-      "8201": [ "BB EA / AMA - African Music Archives" ],
-      "0000": [ "25" ],
-      "0200": [ "0077:22-04-10" ],
-      "0210": [ "0077:24-04-18 13:48:33.000" ],
-      "0230": [ "0077:22-04-10" ],
-      "000A": [ "0" ],
-      "0500": [ "Gau" ],
-      "0100": [ "222701897" ]
-    }
-  },
-  {
-    "id": "SH01",
-    "type": "endnote",
-    "data": [
-      { "key": "%0", "value": "- Generic" },
-      { "key": "%B", "value": "Ambassador Yellow Label" },
-      { "key": "%C", "value": "{[S.l.]" },
-      { "key": "%D", "value": "[ca. 1955]" },
-      { "key": "%E", "value": "Amissah, I.K." },
-      { "key": "%G", "value": "fat" },
-      { "key": "%I", "value": "Ambassador" },
-      { "key": "%M", "value": "222701897" },
-      { "key": "%B", "value": "Woma me mdzi ma agoro" },
-      { "key": "%P", "value": "1 Schallpl." },
-      { "key": "%T", "value": "Ahia me.[...] penny" },
-      { "key": "%Z", "value": "Matrix-Nr.: BAK 41/BAK 42" },
-      { "key": "%Z", "value": "Titel A-Seite unvollständig (beschädigtes Label)" },
-      { "key": "%Z", "value": "Sprache: Highlife in Fanti" },
-      { "key": "%Z", "value": "Enth. außerdem: Woma me mdzi ma agoro" },
-      { "key": "%1", "value": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives [Signatur: SH 01]" },
-      { "key": "%?", "value": "Kakaikus Band" },
-      { "key": "%~", "value": "OPC4" }
-    ]
-  },
-  {
-    "id": "SH01",
-    "type": "fields",
-    "data": [
-      { "key": "PPN:", "value": "222701897" },
-      { "key": "Title:", "value": "Ahia me.[...] penny [Tonträger] / Kakaiku's Dance Band" },
-      { "key": "Collaborator:", "value": "Amissah, I.K. [Dir.]" },
-      { "key": "Corporate body:", "value": "Kakaiku's Band" },
-      { "key": "Published:", "value": "[S.l.] : Ambassador, [ca. 1955]" },
-      { "key": "Extent:", "value": "1 Schallpl. : 78 UpM, [mono] ; 25 cm" },
-      { "key": "Series:", "value": "Ambassador Yellow Label" },
-      { "key": "Note:", "value": "Sprache: Highlife in Fanti\nEnth. außerdem: Woma me mdzi ma agoro\nMatrix-Nr.: BAK 41/BAK 42 \nTitel A-Seite unvollständig (beschädigtes Label)" },
-      { "key": "Verlags-Bestellnr.:", "value": "AKB 1521" },
-      { "key": "Note on Carrier:", "value": "Normalrillen-Schallplatte" },
-      { "key": "EN:Lokale Schlagwörter:", "value": "12.3 Musik ; 12.3 Schellack ; 12.3 Ghana ; 12.3 Fante, Fanti ; 12.3 Highlife ; 12.3 Danceband-Highlife" },
-      { "key": "EN:Vorhanden in:", "value": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien" },
-      { "key": "EN:Signatur:", "value": "SH 01" },
-      { "key": "EN:Standort:", "value": "BB EA / AMA - African Music Archives" },
-      { "key": "EN:Bemerkungen:", "value": "Titel auf A-Seite unvollständig (beschädigtes Label)" },
-      { "key": "", "value": "nicht ausleihbar" },
-      { "key": "EN:Status:", "value": "Request or reservation not possible, go to information desk" }
-    ]
-  },
-  {
-    "id": "SH01",
-    "type": "ris",
-    "data": [
-      { "key": "TY", "value": "SOUND" },
-      { "key": "ID", "value": "222701897" },
-      { "key": "T1", "value": "Ahia me.[...] penny" },
-      { "key": "T2", "value": "Woma me mdzi ma agoro" },
-      { "key": "T3", "value": "Ambassador Yellow Label" },
-      { "key": "A1", "value": "Kakaikus Band" },
-      { "key": "A2", "value": "Amissah, I.K." },
-      { "key": "CY", "value": "{[S.l.]" },
-      { "key": "PB", "value": "Ambassador" },
-      { "key": "PY", "value": "1955" },
-      { "key": "N1", "value": "Matrix-Nr.: BAK 41/BAK 42" },
-      { "key": "N1", "value": "Titel A-Seite unvollständig (beschädigtes Label)" },
-      { "key": "N1", "value": "Sprache: Highlife in Fanti" },
-      { "key": "N1", "value": "Enth. außerdem: Woma me mdzi ma agoro" },
-      { "key": "N1", "value": "1 Schallpl." },
-      { "key": "H1", "value": "Universität Mainz, Bereichsbibliothek Ethnologie und Afrikastudien / BB EA / AMA - African Music Archives" },
-      { "key": "H2", "value": "SH 01" },
-      { "key": "ER", "value": "" }
-    ]
-  }
-]}
+  ]
+}
