@@ -1,4 +1,4 @@
-# class-04-final-project-prototypes
+# mockjsonserver
  The project is about setting up a mock API-JSONSERVER which mimicks a backend so you can concentrate on your app.
 
 +install npm package
